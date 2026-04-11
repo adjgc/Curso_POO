@@ -18,7 +18,7 @@ El objetivo es construir una base sólida para el desarrollo de aplicaciones esc
 
 * **Clases:** Modelado de clases en POO.
 * **Herencia:** Modelado de relaciones jerarquicas entre clases.
-* **Polimorfismo:** 
+* **Polimorfismo:** Capacidad de mostrar o tomar multiples formas de las clases.
 * **Encapsulamiento:** 
 * **Abstracción:** 
 * **Excepciones:** 
