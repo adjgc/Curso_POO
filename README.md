@@ -117,6 +117,16 @@ Modelar el comportamiento de diferentes formas geométricas.
 - [ ] Se sugieren los pokemons Squirtle, Pikachu, Charmander, Bulbasaur y descripciones de ataques como `Pikachu ha usado: Placaje`
 - [ ] **Plus: Definir una organización de directorios para mayor entendimiento de la solución.**
 
+### 10. Colecciones (`📂 src/clases/colecciones`)
+Mostrar los tipos de colecciones más empleados en POO, sus diferencias y casos de uso.
+
+#### ✅ Actividades
+- [x] Definir una clase Persona.
+- [ ] Declarar un ArrayList de personas y jugar con sus métodos (agregar, modificar, obtener, borrar).
+- [ ] Declarar un LinkedList de personas y jugar con sus métodos (agregar, modificar, obtener, borrar, obtener primero, obtener último).
+- [ ] Declarar un Stack de personas y jugar con sus métodos (agregar, modificar, obtener, borrar).
+- [ ] Declarar un HashMap de personas y jugar con sus métodos (agregar, modificar, obtener).
+
 ## 🚀 Próximamente...
 
 > [!NOTE]
