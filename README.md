@@ -151,7 +151,7 @@ Desarrollar un ejercicio para repasar de manera conjunta lo visto en este curso 
 - [ ] Agregar nuevos juegos a la coleccion.
 - [ ] De los videojuegos en la lista, mostrar solamente los que sean para Nintendo 64.
 
-### 14. Conversiones o Cast (`📂 src/clases/cast`)
+### 14. Conversiones o Cast (`📂 src/clases/conversiones`)
 Demostrar las formas posibles de convertir entre tipos de datos.
 
 #### ✅ Actividades
@@ -160,6 +160,13 @@ Demostrar las formas posibles de convertir entre tipos de datos.
 - [ ] Convertir de double a long y mostrar el resultado.
 - [ ] Declarar vairbales de tipo de dato compuesto/objeto (String, Integer, Double).
 - [ ] Realizar conversiones entre estos tipos de datos bajo sus métodos de clase.
+
+### 15. Enums (`📂 src/clases/enums`)
+Uso de enum como clase de contenido **constantes**.
+
+#### ✅ Actividades
+- [x] Crear un enum de algunos colores constantes.
+- [ ] Revisar las diferentes funciones que posee enum.
 
 ## 🚀 Próximamente...
 
