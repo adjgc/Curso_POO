@@ -187,7 +187,7 @@ Creación de clases con tipos de datos genéricos.
 * **Coleciones:** Tipos de datos especiales como listas y conjuntos.
 * **HashMap:** Mapeo de objetos con HashMap.
 * **Enum:** Definición de colecciones de constantes.
-* **Threads:** Programación concurente.
+* **Threads:** Programación concurrente.
 
 ---
 
